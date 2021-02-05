@@ -1,8 +1,9 @@
 {
   "name": "gmt-ds-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "GMT com de todos os paises",
   "main": "index.js",
+  "repository": {"url": "https://github.com/dougshaard/gmt-ds-lib"},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

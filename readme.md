@@ -2,11 +2,12 @@
 > npm i gmt-ds-lib
 
 Assim que estiver instalado, você poderá fazer a importação dessa forma.
->import objFusoHorario from '/your/path'
+
+>import "your nickname" from gmt-ds-lib
 
 Nessa primeira versão,  a propria importação retorna uma função que contém uma lista com todos os objetos, para poder chamar essa função dentro de um código use dessa forma.
 ```
-objFusoHorario()
+"your nickname"()
 ```
 O conteudo dessa informação será apresentado da seguinte forma.
 ```
