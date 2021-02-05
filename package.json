@@ -1,0 +1,15 @@
+{
+  "name": "gmt-ds-lib",
+  "version": "1.0.1",
+  "description": "GMT com de todos os paises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Soares",
+  "license": "ISC",
+  "dependencies": {
+    "spacetime": "^6.12.2",
+    "spacetime-informal": "^0.5.0"
+  }
+}
